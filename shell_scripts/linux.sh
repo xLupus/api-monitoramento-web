@@ -1,0 +1,1 @@
+echo "Instala ou Atualiza as dependencias novas via 'apt"

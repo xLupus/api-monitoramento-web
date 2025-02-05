@@ -1,0 +1,1 @@
+Write-Host 'Instala ou Atualiza as dependencias novas'
